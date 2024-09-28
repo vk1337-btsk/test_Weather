@@ -1,0 +1,5 @@
+.venv
+poetry.lock
+__pycache__
+.env
+.python-version
